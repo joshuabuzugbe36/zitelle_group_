@@ -36,7 +36,7 @@ const slides = [
   },
   {
     id: 3,
-    src: "/zitelle/sustain.jpg",
+    src: "/zitelle/slide3.jpeg",
     alt: "TATA & BOBO Plywood",
     title: (
       <>

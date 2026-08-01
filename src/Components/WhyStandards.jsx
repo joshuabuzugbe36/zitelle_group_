@@ -4,7 +4,7 @@ const features = [
     title: "Integrated Manufacturing ",
     text: "Our divisions are connected in ways that create stronger control and better consistency. We produce oil used within our soap manufacturing, and our plastic division manufactures jerrycans from scratch for both Zitelle Oil and external customers.",
 
-    image: "/zitelle/IMG_8389.png",
+    image: "/zitelle/integrated.jpeg",
   },
 
   {

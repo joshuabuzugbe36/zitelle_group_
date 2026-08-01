@@ -27,7 +27,7 @@ const CookingOil = () => {
         label=""
         title="Palm Kernel Refined Oil"
         text="Our refined palm Kernel Oil is processed to meet the needs of businesses that require a reliable, versatile, and consistent oil for manufacturing and commercial use. With its clean appearance, stable quality, and wide range of applications, it supports industries such as soap production, food processing, cosmetics, and other industrial formulations."
-        image="/zitelle/oil4.jpg"
+        image="/zitelle/oilinfo.jpeg"
         primaryText="Request A Quote"
         primaryLink="/contact"
         secondaryText="Speak To Sales"
@@ -52,7 +52,7 @@ const CookingOil = () => {
             category: "",
             name: "10 Litres",
             description: "",
-            image: "/zitelle/IMG_7850.png",
+            image: "/zitelle/10litres.jpeg",
             link: "/contact",
           },
 

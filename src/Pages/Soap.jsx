@@ -40,43 +40,43 @@ const Soap = () => {
         products={[
           {
             id: 1,
-            // category: "Household Care",
-            // name: "Multipurpose Bar Soap",
+            category: "Long Bar Soap",
+            name: "Lemon Fresh",
 
-            image: "/zitelle/IMG_0420.png",
+            image: "/zitelle/soap10.jpeg",
             link: "/contact",
           },
 
           {
             id: 2,
-            // category: "Personal Care",
-            // name: "Premium Bath Soap",
+            category: "Short Bar Soap",
+            name: "Lavender",
 
-            image: "/zitelle/IMG_0401.png",
+            image: "/zitelle/soap11.jpeg",
             link: "/contact",
           },
 
           {
             id: 3,
-            // category: "Commercial Supply",
-            // name: "Industrial Cleaning Soap",
+            category: "Short Bar Soap",
+            name: "Original Fresh",
 
-            image: "/zitelle/IMG_0358.png",
+            image: "/zitelle/soap12.jpeg",
             link: "/contact",
           },
 
           {
             id: 4,
-            // category: "Household Care",
-            // name: "Detergent Soap",
-            image: "/zitelle/IMG_0296.png",
+            category: "Short Bar Soap",
+            name: "Sunlight Fresh",
+            image: "/zitelle/soap13.jpeg",
             link: "/contact",
           },
           {
             id: 5,
-            // category: "Household Care",
-            // name: "Detergent Soap",
-            image: "/zitelle/IMG_0234.png",
+            category: "Short Bar Soap",
+            name: " Menthol Cool",
+            image: "/zitelle/soap14.jpeg",
             link: "/contact",
           },
         ]}

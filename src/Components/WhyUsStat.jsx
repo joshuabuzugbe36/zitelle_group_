@@ -12,9 +12,9 @@ const stats = [
     text: "Operating seven days a week without compromise or interruption",
   },
   {
-    end: 4,
+    end: 5,
     suffix: "",
-    text: "Four divisions serving homes, businesses and industries",
+    text: "Five divisions serving homes, businesses and industries",
   },
 ];
 

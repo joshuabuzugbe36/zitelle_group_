@@ -22,12 +22,12 @@ const teamMembers = [
     role: "General Manager AWKA",
     image: "/zitelle/Stella Akunyiba.jpeg",
   },
-  {
-    name: "Ngozi Oluchime ",
-    role: "General Manager LAGOS",
-    image:
-      "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?q=80&w=1200&auto=format&fit=crop",
-  },
+  // {
+  //   name: "Ngozi Oluchime ",
+  //   role: "General Manager LAGOS",
+  //   image:
+  //     "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?q=80&w=1200&auto=format&fit=crop",
+  // },
   {
     name: "Nonso Oyeoka",
     role: "Head of Audit & Internal Control",
@@ -42,7 +42,7 @@ const teamMembers = [
   {
     name: "Sonia Enumah",
     role: "Head of Administration",
-    image: "/zitelle/Sonia Enumah.png",
+    image: "/zitelle/Sonia Enumah.jpeg",
   },
   {
     name: "Kenneth Anuforo",
@@ -57,7 +57,7 @@ const teamMembers = [
   {
     name: "Ebuka Dontaus Obinwa",
     role: "Head of Sales & Marketing LAGOS",
-    image: "/zitelle/Ebuka Dontaus Obinwa.png",
+    image: "/zitelle/Ebuka Dontaus Obinwa.jpeg",
   },
   {
     name: "Romanus Idiemerio",

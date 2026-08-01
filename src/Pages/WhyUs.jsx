@@ -28,7 +28,7 @@ const WhyUs = () => {
       <PageHero
         title="Why Us"
         highlight=""
-        image="/zitelle/why_us_hero.jpg"
+        image="/zitelle/why_us_new.jpeg"
         // breadcrumb={
         //   <>
         //     <span className="page-hero__crumb">Home /</span>

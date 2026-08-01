@@ -73,7 +73,7 @@ const Packaging = () => {
             name: "18 Litres",
             // description:
             //   "Heavy-duty plastic container for commercial and industrial use.",
-            image: "/zitelle/18litres.jpg",
+            image: "/zitelle/18litres.jpeg",
             link: "/contact",
           },
 
@@ -83,7 +83,7 @@ const Packaging = () => {
             name: "25 Litres",
             // description:
             //   "Large-capacity packaging designed for bulk storage and transportation.",
-            image: "/zitelle/25litres.jpg",
+            image: "/zitelle/25litres.jpeg",
             link: "/contact",
           },
         ]}
