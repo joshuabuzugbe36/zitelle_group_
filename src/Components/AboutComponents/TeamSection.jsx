@@ -4,8 +4,7 @@ const teamMembers = [
   {
     name: "Dominic Okechukwu-Anolue",
     role: "Chairman",
-    image:
-      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1200&auto=format&fit=crop",
+    image: "/zitelle/chairman.jpeg",
   },
   {
     name: "Frances Okechukwu-Anolue",
