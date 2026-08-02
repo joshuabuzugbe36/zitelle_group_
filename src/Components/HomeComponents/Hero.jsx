@@ -21,7 +21,7 @@ const slides = [
   },
   {
     id: 2,
-    src: "/zitelle/hero2.jpg",
+    src: "/zitelle/slide2_home.jpeg",
     alt: "Zitelle Soap Manufacturing",
     title: (
       <>

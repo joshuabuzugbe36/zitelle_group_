@@ -62,13 +62,13 @@ const aboutSections = [
 
     // label: "Who We Are",
 
-    title: "Everyday Impacft",
+    title: "Everyday Impact",
 
     text: `At the heart of Zitelle Group is a simple mission: to manufacture essential products that improve daily living while driving sustainable growth for the communities and industries we serve.
 `,
     extra: `From the oil used in homes and businesses, to the soap used for bathing, laundry and cleaning, to the jerrycans that package and protect liquid products, and the wood products that support construction, furniture, and commercial use – Zitelle Group serves practical needs across multiple parts of the market.`,
 
-    image: "/zitelle/IMG_0164.jpeg",
+    image: "/zitelle/impact_about.jpeg",
   },
   {
     id: 6,
@@ -84,7 +84,7 @@ const aboutSections = [
 
     extra: `We believe that every product carrying the Zitelle name should reflect care, reliability and usefulness. Whether a customer is buying oil for household use, soap for daily washing, jerrycans for commercial packaging, or wood products for business needs, they should feel confident in the standard behind the product. `,
 
-    image: "/zitelle/IMG_8398.png",
+    image: "/zitelle/standard_about.jpeg",
   },
 ];
 
