@@ -2,7 +2,7 @@ const features = [
   {
     number: "01",
     title: "Reliable Supply",
-    text: "Our Production capacity allows us to support customers who require consistent access to Palm Kernel Cake ",
+    text: "Our Production capacity allows us to support customers who require consistent access to De-Oil Cake ",
 
     image: "/zitelle/pk1.jpeg",
   },
@@ -10,7 +10,7 @@ const features = [
   {
     number: "02",
     title: "Agricultural Value",
-    text: "Palm Kernel Cake is widely used in livestock feed production and supports the agricultural supply chain.",
+    text: "De-Oil Cake is widely used in livestock feed production and supports the agricultural supply chain.",
 
     image: "/zitelle/pk3.jpeg",
   },
@@ -18,7 +18,7 @@ const features = [
   {
     number: "03",
     title: "Integrated Production",
-    text: "As part of our palm kernel oil productions, our Palm Kernel Cake is produced through an organised and controlled process.",
+    text: "As part of our palm kernel oil productions, our De-Oil Cake is produced through an organised and controlled process.",
 
     image: "/zitelle/pk2.jpeg",
   },
@@ -44,7 +44,7 @@ const WhyPk = () => {
       <div className="">
         <div className="business-pg__label">
           <div className="business-pg__label-line" />
-          <span>WHY ZITELLE PALM KERNEL CAKE?</span>
+          <span>WHY ZITELLE De-Oil CAKE?</span>
           <div className="business-pg__label-line" />
         </div>
       </div>

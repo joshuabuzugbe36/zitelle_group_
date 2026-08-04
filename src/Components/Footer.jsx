@@ -104,7 +104,7 @@ const Footer = () => {
               <Link to="/services/packaging">Packaging</Link>
             </li>
             <li>
-              <Link to="/services/pk">Palm Kernel Cake</Link>
+              <Link to="/services/pk">De-Oil Cake</Link>
             </li>
           </ul>
         </div>

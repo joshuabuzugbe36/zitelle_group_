@@ -66,7 +66,7 @@ const tabs = [
       {
         icon: "ti-recycle",
         title: "Resource Efficiency",
-        desc: "By converting a by-product of oil production into a useful agricultural input, Palm Kernel Cake supports responsible manufacturing and reduces waste across the processing chain.",
+        desc: "By converting a by-product of oil production into a useful agricultural input, De-Oil Cake supports responsible manufacturing and reduces waste across the processing chain.",
       },
     ],
   },
@@ -82,7 +82,7 @@ const PKCApplications = () => {
       <div className="pk-inner">
         {/* LEFT — image */}
         <div className="pk-image">
-          <img src="/zitelle/pk6.png" alt="Palm Kernel Cake" />
+          <img src="/zitelle/pk6.png" alt="De-Oil Cake" />
         </div>
 
         {/* RIGHT — content */}
@@ -94,10 +94,9 @@ const PKCApplications = () => {
           </h2>
 
           <p className="pk-text">
-            Palm Kernel Cake is a valuable by-product of our oil production
-            process — turned into a practical, high-demand agricultural
-            ingredient serving farmers, feed producers, and agricultural
-            businesses across Nigeria.
+            De-Oil Cake is a valuable by-product of our oil production process —
+            turned into a practical, high-demand agricultural ingredient serving
+            farmers, feed producers, and agricultural businesses across Nigeria.
           </p>
 
           {/* Tabs */}

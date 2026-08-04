@@ -4,12 +4,12 @@ const stats = [
   {
     number: 38325,
     suffix: "",
-    label: "MTPA Palm Kernel Oil (PKO)",
+    label: "MTPA De-Oil Cake (DOC)",
   },
   {
     number: 65700,
     suffix: "",
-    label: "MTPA Palm Kernel Cake (PKC)",
+    label: "MTPA De-Oil Cake (PKC)",
   },
   {
     suffix: "-",

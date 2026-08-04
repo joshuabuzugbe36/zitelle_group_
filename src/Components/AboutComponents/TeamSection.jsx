@@ -12,6 +12,11 @@ const teamMembers = [
     image: "/zitelle/Frances Okechukwu-Anolue.jpeg",
   },
   {
+    name: "Sonia Enumah",
+    role: "Manager",
+    image: "/zitelle/Sonia Enumah.jpeg",
+  },
+  {
     name: "James Monweya",
     role: "Chief Financial Controller",
     image: "/zitelle/James Monweya.jpeg",
@@ -27,11 +32,7 @@ const teamMembers = [
   //   image:
   //     "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?q=80&w=1200&auto=format&fit=crop",
   // },
-  {
-    name: "Sonia Enumah",
-    role: "General Manager LAGOS",
-    image: "/zitelle/Sonia Enumah.jpeg",
-  },
+
   {
     name: "Nonso Oyeoka",
     role: "Head of Audit & Internal Control",

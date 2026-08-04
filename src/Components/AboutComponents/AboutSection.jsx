@@ -57,7 +57,7 @@ const AboutSection = () => {
           </div>
 
           <div className="about-section__capacity-row">
-            <span>PKC</span>
+            <span>DOC</span>
 
             <strong>
               <Counter end={70000} duration={4000} delay={1400} /> MTPA

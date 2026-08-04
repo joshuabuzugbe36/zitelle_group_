@@ -7,7 +7,7 @@ const services = [
   { num: "02", label: "Soap", path: "/services/soap" },
   { num: "03", label: "Plywood", path: "/services/plywood" },
   { num: "04", label: "Packaging", path: "/services/packaging" },
-  { num: "05", label: "Palm Kernel Cake", path: "/services/pk" },
+  { num: "05", label: "De-Oil Cake", path: "/services/pk" },
 ];
 
 const navLinks = [
