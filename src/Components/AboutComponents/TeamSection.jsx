@@ -13,12 +13,12 @@ const teamMembers = [
   },
   {
     name: "Sonia Enumah",
-    role: "Manager",
+    role: "Acting Manager",
     image: "/zitelle/Sonia Enumah.jpeg",
   },
   {
     name: "James Monweya",
-    role: "Chief Financial Controller",
+    role: "Group Financial Controller",
     image: "/zitelle/James Monweya.jpeg",
   },
   {
@@ -59,11 +59,11 @@ const teamMembers = [
     role: "Head of Sales & Marketing LAGOS",
     image: "/zitelle/Ebuka Dontaus Obinwa.jpeg",
   },
-  {
-    name: "Romanus Idiemerio",
-    role: "Senior Accountant",
-    image: "/zitelle/Romanus Idiemerio.jpg",
-  },
+  // {
+  //   name: "Romanus Idiemerio",
+  //   role: "Senior Accountant",
+  //   image: "/zitelle/Romanus Idiemerio.jpg",
+  // },
 ];
 
 // Splits the role onto a new line before AWKA / LAGOS
