@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import api from "../../services/api";
 import toast from "react-hot-toast";
+import { NIGERIAN_STATES } from "../../constants/nigerianStates";
 
 const CareerApply = () => {
   const [loading, setLoading] = useState(false);
@@ -164,10 +165,12 @@ const CareerApply = () => {
               onChange={handleChange}
             >
               <option value="">Select...</option>
-              <option>Lagos</option>
-              <option>Abuja</option>
-              <option>Port Harcourt</option>
-              <option>Enugu</option>
+
+              {NIGERIAN_STATES.map((state) => (
+                <option key={state} value={state}>
+                  {state}
+                </option>
+              ))}
             </select>
           </div>
         </div>
